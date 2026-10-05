@@ -1,5 +1,4 @@
-1. Edited README.md to document the project and explain why Git makes development easier.
-2. Checked the changes with git status.
-3. Staged README.md and git_workflow.txt using git add.
-4. Created a commit with git commit.
-5. Pushed the commit to GitHub using git push.
+1- Edit: which file you changed and how (for example, regenerating tree_structure.txt with ls -laR).
+2- Check: the command you ran to see what changed, and what it reported.
+3- Add and commit: your git add command, and your git commit -m "..." command with the real message.
+4- Push: the git push command and what GitHub reported back (for example, the 4228408..3058249 main -> main line).
