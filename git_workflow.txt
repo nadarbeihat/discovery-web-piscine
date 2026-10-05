@@ -1,5 +1,0 @@
-1. Edited README.md to document the project and explain why Git makes development easier.
-2. Checked the changes with git status.
-3. Staged README.md and git_workflow.txt using git add.
-4. Created a commit with git commit.
-5. Pushed the commit to GitHub using git push.
