@@ -7,5 +7,5 @@ cat draft.txt
 cp draft.txt draft_backup.txt 
 mv draft_backup.txt final_report.txt 
 touch nada_temporary 
-rm nada_tenporary
+rm nada_temporary
 
